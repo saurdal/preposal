@@ -4,7 +4,7 @@
 
 idea 1:
 interactive webpage that allows users to filter through the differenct armor/player clothing for the video game Baldur's Gate 3
-- would use html, css, java, and python
+- would use html, css, javascript, and python
 
 idea 2:
 game that allows players to make pixel drawings
